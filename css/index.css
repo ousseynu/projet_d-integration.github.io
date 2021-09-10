@@ -1,0 +1,396 @@
+
+.Home{
+    border: #4bcaff solid 1px;
+    padding: 4px;
+    color: #4bcaff;
+}
+/*cette partie concerne la barre de menu*/
+.BLUEASY{
+    background-image: url("img/0.jpg");
+    height: 500px;
+    opacity: 10;
+}
+.barre_nav{
+    background-color: #3d484f;
+    height: 70px;
+    opacity: 0.7;
+    padding-top: 30px;
+    
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 10px;
+    margin-left: 15px;
+}
+nav{
+    margin-left: 550px;
+    margin-top: -130px;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 180px;
+    background-color: #3d484f;
+    opacity: 0.7;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 20px;
+}
+#THINGS{
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    background-color: #3d484f;
+    opacity: 0.7;
+    margin-left: 250px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+/**/
+/*
+cette partie concerne les services
+*/
+.SERVICES{
+    background-color: #4bcaff;
+    height: 210px;
+    margin-top: -17px;
+}
+p{
+    color: white;
+    margin-top: 10px;
+    margin-left:190px;
+    font-size: 30px;
+}
+hr{
+    margin-top: -30px;
+    margin-left: 190px;
+    margin-right: 950px;
+}
+.coffee{
+    width: 200px;
+    height: 200px;
+    margin-top: -60px;
+    margin-left: 100px;
+}
+.pcoffee{
+    color: white;
+    font-size: 7px;
+    margin-top: -50px;
+    margin-left: 175px;
+}
+.instant{
+    width: 200px;
+    height: 200px;
+    margin-left: 310px;
+    margin-top: -200px;
+}
+.pinstant{
+    color: white;
+    font-size: 7px;
+    margin-top: -60px;
+    margin-left: 380px;
+}
+.serious{
+    width: 200px;
+    height: 200px;
+    margin-left: 530px;
+    margin-top: -200px;
+}
+.pserious{
+    color: white;
+    font-size: 7px;
+    margin-top: -70px;
+    margin-left: 600px;
+}
+.frame{
+    width: 200px;
+    height: 200px;
+    margin-left: 720px;
+    margin-top: -200px;
+}
+.pframe{
+    color: white;
+    font-size: 7px;
+    margin-top: -80px;
+    margin-left: 790px;
+}
+/**/
+/*
+cette partie concerne le portfolio
+*/
+.PORFOLIO{
+    background-color: white;
+    height: 400px;
+}
+.pporfolio{
+    color: #3d484f;
+    margin-top: 10px;
+    margin-left:190px;
+    font-size: 30px;
+}
+
+.Nav_Porfolio{
+    margin-left: 600px;
+    margin-top: -40px;
+
+}
+.ALL{
+    border: #4bcaff solid 1px;
+    padding: 5px;
+    color: #4bcaff;
+    text-decoration: none;
+    font-size: 10px;
+    margin-left: 15px;
+}
+.a_Porfolio{
+    color: #3d484f;
+    text-decoration: none;
+    font-size: 10px;
+    margin-left: 15px;
+
+}
+.one{
+    width: 145px;
+    height: 145px;
+    margin-top: 40px;
+    margin-left: 190px;
+}
+.two{
+    width: 145px;
+    height: 145px;
+    margin-top: -180px;
+    margin-left: 20px;
+}
+.ten{
+    width: 145px;
+    height: 145px;
+    margin-top: -180px;
+    margin-left: 20px;
+}
+.three{
+    width: 145px;
+    height: 145px;
+    margin-top: -180px;
+    margin-left: 20px;
+}
+.four{
+    width: 145px;
+    height: 145px;
+    margin-top: 10px;
+    margin-left: 190px;
+}
+.five{
+    width: 145px;
+    height: 145px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.six{
+    width: 145px;
+    height: 145px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.seven{
+    width: 145px;
+    height: 145px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+/**/
+/*
+cette partie concerne le Just....
+*/
+.JUST{
+    background-color: #3d484f;
+    height: 210px;
+    opacity: 0.8;
+}
+.pjust{
+    font-size: 25px;
+}
+.p1just{
+    font-size: 10px;
+    margin-top: 30px;
+}
+input{
+    background-color:#3d484f ;
+    margin-left: 190px;
+    margin-top: -50px;
+   
+}
+.eleven{
+    width: 300px;
+    height: 150px;
+    margin-left: 400px;
+    margin-top: -150px;
+
+}
+/**/
+/*
+cette partie concerne la ou ils on mit twitter
+*/
+.TWITTER{
+    background-color: #4bcaff;
+    height: 150px;   
+    margin-top: -10px;
+}
+.ptwitter{
+    font-size: 25px;
+}
+.twitter{
+    width: 130px;
+    margin-left: 900px;
+    margin-top: -30px;
+}
+.p1twitter{
+    font-size: 20px;
+    margin-top: -20px;
+   
+}
+/**/
+/*
+cette partie concerne le WHO IS...
+*/
+
+.WHO{
+    background-image: url("img/8.jpg");
+    background-size: 110%;
+    background-repeat: no-repeat;
+    height: 250px;
+    margin-top: -10px;
+}
+.pwho{
+    color: white;
+}
+.p1who{
+    color: white;
+    font-size: 10px;
+}
+.div1_who{
+    margin-top: 30px;
+}
+.p2who{
+    color: white;
+    font-size: 10px;
+}
+.div2_who{
+    margin-top: -90px;
+    margin-left: 300px;
+}
+.twelve{
+    width: 150px;
+    margin-left: 190px;
+    margin-top: 15px;
+}
+/**/
+/*
+cette partie concerne le TESTIMONIAL
+*/
+.TESTIMONIALS{
+    background-color: white;
+    height: 200px;
+    margin-top: -15px;
+}
+.guillemet{
+    width: 80px;
+    margin-left: 900px;
+    margin-top: -19px;
+}
+.ptestimonials{
+    color:#3d484f;
+}
+.p1testimonials{
+    color: #3d484f;
+    font-size: 15px;
+}
+.walter{
+    margin-left: 140px;
+    margin-top: -20px;
+    width: 150px;
+}
+/**/
+/*
+cette partie concerne les CONTACTS
+*/
+.CONTACT{
+    background-image: url("img/9.jpg");
+    background-size: 200%;
+   
+    background-repeat: no-repeat;
+    height: 450px;
+    opacity: 0.8;
+}
+.pcontact{
+    color: white;
+    
+}
+.NOM{
+    color: white;
+    padding-left: 190px;
+}
+.EMAIL{
+    color: white;
+    padding-left: 190px;
+    
+}
+table{
+    margin-top: 50px;
+}
+.MESSAGE{
+    color: white;
+    padding-left: 190px;
+}
+textarea{
+    margin-left: 190px;
+    margin-top: 10px;
+    border: white;
+    border-style: solid;
+    background-color:transparent;
+    opacity: 0.9;
+}
+.envoyer{
+    background-color:#4bcaff ;
+    color: white;
+    margin-right: 900px;
+    width: 170px;
+    height: 30px;
+    margin-top: 20px;
+    border: none;
+}
+.p1contact{
+    color: white;
+    font-size: 10px;
+    margin-left: 400px;
+    margin-top: -280px;
+}
+input{
+    border: white;
+    border-style:solid;
+    background-color: transparent;
+}
+
+/**/
+/*
+cette partie concerne le FOOTER
+*/
+footer{
+ background-color:#3d484f ;
+ height: 100px;
+}
+.navfooter{
+    background-color:#3d484f;
+    padding-top: 20px;
+    padding-left: 180px;
+}
+.a_footer{
+    color:#7d858a ;
+    
+}
